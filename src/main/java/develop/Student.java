@@ -11,6 +11,7 @@ public class Student {
 
     public void printAge(){
         System.out.println("age1");
+        System.out.println("age2");
     }
 
 }
