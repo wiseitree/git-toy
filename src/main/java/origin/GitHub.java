@@ -14,6 +14,7 @@ public class GitHub {
 
     public static void test2(){
         System.out.println("GitHub.test2");
+        System.out.println("GitHub.test22");
     }
     
 }
