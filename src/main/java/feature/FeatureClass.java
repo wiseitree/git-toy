@@ -10,6 +10,6 @@ public class FeatureClass {
     private String feature44;
     private String feature444;
 
-
+    private String rebase1;
 
 }
