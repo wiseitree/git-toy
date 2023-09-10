@@ -7,5 +7,7 @@ public class FeatureClass {
     private String feature3;
 
     private String feature4;
+    private String feature44;
+
 
 }
