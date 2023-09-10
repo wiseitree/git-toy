@@ -11,5 +11,6 @@ public class FeatureClass {
     private String feature444;
 
     private String rebase1;
+    private String rebase2;
 
 }
