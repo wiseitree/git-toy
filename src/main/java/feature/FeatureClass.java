@@ -6,6 +6,6 @@ public class FeatureClass {
     private String feature2;
     private String feature3;
 
-    private String feature5;
+    private String feature4;
 
 }
