@@ -8,4 +8,8 @@ public class FeatureService {
         System.out.println("test3");
 
     }
+
+    public void test2(){
+        System.out.println("test1");
+    }
 }
