@@ -1,5 +1,5 @@
 package feature;
 
 public class FeatureClass {
-    private String feature1;
+    private String feature3;
 }
