@@ -8,6 +8,8 @@ public class FeatureClass {
 
     private String feature4;
     private String feature44;
+    private String feature444;
+
 
 
 }
