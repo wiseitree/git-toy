@@ -21,9 +21,6 @@ public class FeatureService {
         System.out.println("conflictTest1");
         System.out.println("conflictTest1");
         System.out.println("conflictTest1");
-        System.out.println("conflictTest1");
-        System.out.println("conflictTest1");
-        System.out.println("conflictTest1");
     }
 
     public void test3(){
